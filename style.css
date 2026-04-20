@@ -1,0 +1,52 @@
+html body {
+    background-color: #f6f6f0;
+    color: #31312f;
+}
+
+.narrow {
+    max-width: 500px;
+    margin: 0 auto !important;
+}
+
+.coloredbg {
+    background-color: #49415e !important;
+    color: #f6f6f0;
+}
+
+.padding {
+    padding: 20px;
+}
+
+.roundcorner {
+    border-radius: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.montserratfont {
+    font-family: "Montserrat";
+}
+
+.shortstackfont {
+    font-family: "Short Stack";
+}
+
+input {
+    border-radius: 20px !important;
+    margin-bottom: 5px !important;
+    width: 100%;
+}
+
+.btn1 {
+    background-color: #f6f6f0 !important;
+    border: none !important;
+    color: #49415e;
+    padding: 5px;
+    width: 150px;
+}
